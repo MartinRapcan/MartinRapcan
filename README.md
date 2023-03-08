@@ -12,7 +12,7 @@ I'm Martin, a full-stack developer and a huge Star Wars fan!
 ## 🌱 I'm currently learning
 
 - Opencv in Python
-- React + TypeScript
+- React + TypeScript - Improving
 
 ## 🎥 Star Wars Favorites
 
