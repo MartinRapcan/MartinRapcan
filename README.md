@@ -23,7 +23,7 @@ I'm Martin, a full-stack developer and a huge Star Wars fan!
 - Favorite ship: Millennium Falcon
 - Favorite lightsaber color: Green
 
-## Hobbies and Interests
+## 💤 Hobbies and Interests
 
 - Old watch collecting
 - Star Wars figures collecting
