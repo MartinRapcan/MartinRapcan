@@ -1,4 +1,4 @@
-# Hello there! 👋
+# "Hello there! 👋 - General Kenobi, you are a bold one!" 
 
 I'm Martin, a full-stack developer and a huge Star Wars fan!
 
