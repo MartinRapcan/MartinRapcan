@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-I'm Martin, a full and a huge Star Wars fan! I've been a fan since I was a kid and I can't get enough of it.
+I'm Martin, a full-stack developer and a huge Star Wars fan!
 
 ## 🚀 Skills
 
