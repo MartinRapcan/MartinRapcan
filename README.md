@@ -21,6 +21,15 @@ I'm Martin, a full-stack developer and a huge Star Wars fan!
 - Favorite character: Han Solo
 - Favorite quote: "There is a great disturbance in the Force."
 - Favorite planet: Tatooine
+- Favorite ship: Millennium Falcon
+- Favorite lightsaber color: Green
+
+## Hobbies and Interests
+
+- Old watch collecting
+- Star Wars figures collecting
+- Sport/Training - "Well, you can always be thinner... look better."
+
 <!--
 ## 💻 Projects
 
