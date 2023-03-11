@@ -17,7 +17,7 @@ I'm Martin, a full-stack developer and a huge Star Wars fan!
 ## 🎥 Star Wars Favorites
 
 - Favorite movie: The Empire Strikes Back
-- Favorite character: Han Solo
+- Favorite character: Luke Skywalker
 - Favorite quote: "There is a great disturbance in the Force."
 - Favorite planet: Tatooine
 - Favorite ship: Millennium Falcon
