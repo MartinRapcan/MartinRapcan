@@ -7,7 +7,7 @@ I'm Martin, a full-stack developer and a huge Star Wars fan!
 - React
 - TypeScript
 - Python
-- Quoting Star Wars quotes
+- Quoting Star Wars
 
 ## 🌱 I'm currently learning
 
