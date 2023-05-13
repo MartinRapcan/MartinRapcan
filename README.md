@@ -23,13 +23,6 @@ I'm Martin, a full-stack developer and a huge sci-fi especially Star Wars and We
 - Favorite ship: Millennium Falcon
 - Favorite lightsaber color: Green
 
-## 🤠 Westerns
-
-- Favorite movie: Once Upon A Time In The West
-- Favorite character: Nessuno - Man with No Name
-- Favorite moral: There was this little birdie, who didn't even know how to fly yet. Then one freezing cold night, he tumbles out of his nest and lands on the ground. Well, he starts going, "Chirp, chirp, chirp," like crazy because he was damn nearly freezing. Lucky for him, along comes this cow, sees him, and feels sorry for him. So she lifts her tail, and SPLAT! drops this steaming hot cow pie right on him! The little birdie is nice and warm again, but he's still not happy and keeps going, "Chirp, chirp, chirp, chirp," louder than ever! Then a mean old coyote hears him and comes running. He reaches out a paw, and pulls him out of the cow pie. He brushes the dirt off him real nice, and then... swallows the birdie down in one gulp!
-- Favorite quote: "When you have to shoot, shoot, don’t talk!" 
-
 ## 💤 Hobbies and Interests
 
 - Old watch collecting
@@ -42,6 +35,13 @@ I'm Martin, a full-stack developer and a huge sci-fi especially Star Wars and We
 - [Project #1]: [Brief description and link to the project]
 - [Project #2]: [Brief description and link to the project]
 - [Project #3]: [Brief description and link to the project]
+
+## 🤠 Westerns
+
+- Favorite movie: Once Upon A Time In The West
+- Favorite character: Nessuno - Man with No Name
+- Favorite moral: There was this little birdie, who didn't even know how to fly yet. Then one freezing cold night, he tumbles out of his nest and lands on the ground. Well, he starts going, "Chirp, chirp, chirp," like crazy because he was damn nearly freezing. Lucky for him, along comes this cow, sees him, and feels sorry for him. So she lifts her tail, and SPLAT! drops this steaming hot cow pie right on him! The little birdie is nice and warm again, but he's still not happy and keeps going, "Chirp, chirp, chirp, chirp," louder than ever! Then a mean old coyote hears him and comes running. He reaches out a paw, and pulls him out of the cow pie. He brushes the dirt off him real nice, and then... swallows the birdie down in one gulp!
+- Favorite quote: "When you have to shoot, shoot, don’t talk!" 
 
 ## 📈 GitHub Stats
 
