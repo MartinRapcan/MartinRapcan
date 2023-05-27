@@ -1,18 +1,22 @@
 # "Hello there! 👋 - General Kenobi, you are a bold one!" 
 
-I'm Martin, a full-stack developer and a huge sci-fi especially Star Wars and Western movies fan!
+I'm Martin, a full-stack developer and a Star Wars fan!
 
 ## 🚀 Skills
 
 - React
 - TypeScript
 - Python
+- OpenCV-Python
+- NestJS
+- NextJS
 - Quoting Star Wars
 
+<!--
 ## 🌱 I'm currently learning
 
 - Opencv in Python
-- React + TypeScript + NestJS- Improving
+- React + TypeScript + NestJS - Improving
 
 ## 🎥 Star Wars Favorites
 
@@ -29,7 +33,6 @@ I'm Martin, a full-stack developer and a huge sci-fi especially Star Wars and We
 - Star Wars figures collecting
 - Sport/Training - "Well, you can always be thinner... look better."
 
-<!--
 ## 💻 Projects
 
 - [Project #1]: [Brief description and link to the project]
