@@ -6,6 +6,7 @@ I'm Martin, a full-stack developer and a Star Wars fan!
 
 - React
 - TypeScript
+- React Native
 - Python
 - OpenCV-Python
 - NestJS
